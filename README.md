@@ -12,6 +12,6 @@ Esta Landing Page apresenta um formato clean com um exemplo de um hotel, é adap
 
 ### Instalação
 
-Clone este repositório usando git clone https://github.com/Leticiafrnc/Projeto_01.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
+Clone este repositório usando git clone https://github.com/Leticiafrnc/Projeto_02.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação. Na sessão "About" você tem um link para ter acesso a aplicação também.
 
 ### Observação: Se abrir a aplicação no celular, tablet ou qualquer tipo de tela a aplicação se adapta.
