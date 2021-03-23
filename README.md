@@ -1,6 +1,6 @@
-### Projeto_02
+### Página Para Hotéis
 
-O Projeto_02 foi meu segundo projeto desenvolvido com HTML5 assim já com as validações do HTML5. Foi utilizado também CSS3 com o objetivo de demostrar meu aprendizado.
+O projeto Página Para Hoteis foi meu segundo projeto desenvolvido com HTML5 assim já com as validações do HTML5. Foi utilizado também CSS3 com o objetivo de demostrar meu aprendizado.
 
 ![Screenshot](Projeto02.gif)
 
